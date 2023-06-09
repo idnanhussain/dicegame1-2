@@ -1,0 +1,21 @@
+start with plan
+
+Building HTML
+
+first the game is going to need a button with the roll function 
+i also want to have a sound play as the roll button is clicked.
+
+you will also need a <p> to say player one and a box that will update the score. 
+
+background you can use a photo from google. 
+
+
+building javascript 
+
+you will need to build a function that will randomly generate numbers between 1-6 DONE
+
+you also need to find a way to cap the amount of dice rolls a player can make to 6 
+
+also you need to find a way for the player to win the game if they get over 20
+
+if the player rolls a 1 then you need to find a way for the game to restart. 
